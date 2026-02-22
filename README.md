@@ -225,8 +225,8 @@ This project is available for educational and commercial use.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [Fahim Faisal Talha](https://github.com/Fahimfaisaltalha)
+- LinkedIn: [Fahim Faisal Talha](www.linkedin.com/in/fahim-faisal-talha)
 
 ## ⭐ Show your support
 
