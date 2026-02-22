@@ -223,10 +223,10 @@ This project is available for educational and commercial use.
 
 ## 👤 Author
 
-**Your Name**
+**Fahim Faisal Talha**
 
 - GitHub: [Fahim Faisal Talha](https://github.com/Fahimfaisaltalha)
-- LinkedIn: [Fahim Faisal Talha](www.linkedin.com/in/fahim-faisal-talha)
+- LinkedIn: [Fahim Faisal Talha](https://www.linkedin.com/in/fahim-faisal-talha)
 
 ## ⭐ Show your support
 
